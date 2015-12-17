@@ -19,3 +19,5 @@ KeePi is a project developed in the context of the Mobile Communication Systems 
 * 1 x Camera Module (5MP 1080p/720p)
 * 3 x Female to female jumper leads
 
+# Documentation
+For more details of this project see our [report]()
